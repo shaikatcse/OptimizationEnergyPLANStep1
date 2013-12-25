@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-25T22:20:17</date>
+  <millis>1388006417684</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>energyPLAN.optimization.step1.jmetal.problems.EnergyPLANProblemStep1Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Total execution time: 20466420ms</message>
+</record>
+<record>
+  <date>2013-12-25T22:20:17</date>
+  <millis>1388006417826</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>energyPLAN.optimization.step1.jmetal.problems.EnergyPLANProblemStep1Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2013-12-25T22:20:17</date>
+  <millis>1388006417833</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>energyPLAN.optimization.step1.jmetal.problems.EnergyPLANProblemStep1Main</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+</log>
